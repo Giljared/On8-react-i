@@ -114,14 +114,14 @@ Propriedades ou props é um objeto javascript que passamos como parâmetro para 
 
 Como no HTML passamos as props como atributos de tags.
 
-Veja aqui:
+
 
 #### Children
 
 Children é uma propriedade do objeto props.
 E assim como no HTML, temos as divs mães que criam uma hierarquia com os elementos filhos. Usando o children podemos modificar dados entre as tags de fechamento e abertura de um elemento. 
 
-Veja aqui:
+
 
 
 <br>
@@ -185,8 +185,9 @@ Vamos criar um projetinho react do zero com direito a componetização, consumo 
 4) Crie um componente título que recebe o texto: "Meu Primeiro Projeto React do Zero", a ser renderizado por props ou children
 5) Crie um outro componente que mapeia os dados do arquivo que simula o JSON e retorna em elementos que devem ser renderizados na tela. Os dados devem conter 4 chaves e valores: id, nome, descrição e imagem.
 6) Import no App.js os componentes criados, perceba os erros/warnings que o terminal/console mostra, resolva e faça todos os componentes renderizar na tela 
-7) Suba esse projeto no github, atualize o read me contando o que você aprendeu, iremos disponibilizar uma planilha para a entrega dos links dos repos. A entrega pode ser feita até sexta 13/11.
+7) Suba esse projeto no github, atualize o read me contando tudo o que você aprendeu e usou. Iremos disponibilizar uma planilha para a entrega dos links dos repos. A entrega pode ser feita até sexta 13/11.
 8) Tente fazer entre domingo e terça, para aproveitar a aula de quarta e monitorias pra tirar dúvidas.
+9) Arraseee! E qualquer coisa, me chama!
 
 
 ## Simara Conceição
